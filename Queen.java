@@ -3,7 +3,7 @@ package queen;
 import java.util.Scanner;
 
 public class Queen {
-			
+	//优化		
 	public static void main(String[] args){
 		Scanner in = new Scanner(System.in);
 		int n = in.nextInt();
